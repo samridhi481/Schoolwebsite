@@ -1,9 +1,9 @@
 # School Website
  Educational Website 
 
+## Built With
 
-Built With
+- HTML5
+- CSS
 
-HTML5
-CSS
-Screenshots
+## Screenshots
