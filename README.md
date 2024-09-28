@@ -1,6 +1,6 @@
-School Website
+# School Website
+ Educational Website 
 
-Educational Website
 
 Built With
 
